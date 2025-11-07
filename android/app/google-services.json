@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635907871961",
+    "project_id": "mynotes-project-agbe",
+    "storage_bucket": "mynotes-project-agbe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635907871961:android:71bdb14ef8c900aaeb1ac8",
+        "android_client_info": {
+          "package_name": "com.crameurcode.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXaq4fe-gPa5Ouv39IywwrbCIoeDcYCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
